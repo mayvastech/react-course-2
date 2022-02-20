@@ -19,6 +19,7 @@ const DUMMY_DATA = [
     description:
       "This is a second, amazing meetup which you definitely should not miss. It will be a lot of fun!",
   },
+  
 ];
 
 function AllMeetupsPage() {
